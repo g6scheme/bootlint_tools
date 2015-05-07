@@ -1,4 +1,4 @@
-# Bootlint handy tools
+# Bootlint tools
 
 Inspired by official [Bootlint project](https://github.com/twbs/bootlint) and bookmarklet.
 Removes alert and adds a bit different styling.
