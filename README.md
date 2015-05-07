@@ -5,6 +5,8 @@ Removes alert and adds a bit different styling.
 
 ## Chrome snippet
 
+Copy and paste code below as new [Chrome Snippet](https://developer.chrome.com/devtools/docs/authoring-development-workflow#snippets).
+
 ```javascript
 (function(){
     var scr = document.createElement("script"),
